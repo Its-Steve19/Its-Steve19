@@ -1,4 +1,36 @@
-## 😎 About Me
+<div align="center">
+
+<pre>
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│                              steve@github ~ $ whoami                                         │
+├───────────────────────────────────────┬──────────────────────────────────────────────────────┤
+│                                       │                                                      │
+│               .-===-.                 │  user       Steve Kamau Mbuvi                       │
+│              .=+%@%+=.                │  location   Nyeri, Kenya                            │
+│              -+*##*+-.                │  role       IT Student • Software Developer         │
+│               :=++=:                  │  university  Dedan Kimathi University of Technology │
+│             =@@@@@@@@@@=              │  status     Final Year                              │
+│           .@@@@@@@@@@@@@@.             │                                                      │
+│          -@@@@@@@@@@@@@@@@-            │  stack      React • TypeScript • Node.js            │
+│         .@@@@@@@@@@@@@@@@@.            │             Express • PostgreSQL • Prisma           │
+│         @@@@@@@@%@@@@@@@@@@            │             Python • Flask • ML                     │
+│        .@@@@@@@+  +@@@@@@@@.           │                                                      │
+│        =@@@@@@@    @@@@@@@=            │  tools      Git • GitHub • Vite • Tailwind         │
+│         *@@@@@.    .@@@@@*             │  shell      PowerShell                             │
+│          +@@@@      @@@@+              │  OS         Windows                                │
+│           *@@@      @@@*               │                                                      │
+│           :@@@      @@@:               │  builds     Web Apps • APIs • AI/ML                 │
+│           .@@@      @@@.               │             Market Intelligence • Payments         │
+│          .@@@@      @@@@.              │                                                      │
+│         .@@@@@      @@@@@.             │  project    Kiawara OnionLink                     │
+│        .@@@@@@      @@@@@@.            │  focus      Software • Data • AI • Problem Solving │
+│                                       │                                                      │
+├───────────────────────────────────────┴──────────────────────────────────────────────────────┤
+│        Building practical software, intelligent systems, and solutions that matter.           │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>## 😎 About Me
 
 I’m a frontend-focused web developer who builds modern, production-ready web applications using React,HTML, JavaScript Next.js, TypeScript, and Tailwind CSS. I enjoy turning ideas into clean, responsive, and interactive user interfaces with a strong focus on performance and user experience.
 
